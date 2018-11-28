@@ -4,7 +4,7 @@ This repository contains a pre-release version of SLURP, a Speech and Language U
 
 Laporte C, Ménard L. (2018). Multi-hypothesis tracking of the tongue surface in ultrasound video recordings of normal and impaired speech. Medical Image Analysis. 44: 98-114.
 
-The software was built on top of an old version of GetContours (the newest version is available at https://github.com/mktiede/GetContours) and shares many of its user interface features.  It may (no, it DOES) also contain a few bugs as a result of our building on top of it for research purposes, which I am planning to fix prior to a more official release.  There is also no user manual at the moment other than this ReadMe file, so here are some very basic instructions to get our particle filtering method running:
+The software was built on top of an old version of GetContours (the newest version is available at https://github.com/mktiede/GetContours) and shares many of its user interface features.  It may (no, it DOES) also contain a few bugs as a result of our building on top of it for research purposes, which we are planning to fix prior to a more official release.  There is also no user manual at the moment other than this ReadMe file, so here are some very basic instructions to get our particle filtering method running:
 	•	Start MATLAB and change the path to the directory where you installed SLURP
 	•	Start the SLURP software by calling SLURP
 	•	Open a video (.avi file) using the SLURP menu on the right
